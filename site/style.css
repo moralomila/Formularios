@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background-image: url(background.png);
+    background-image: url(images.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -84,7 +84,7 @@ form .input-group input:focus{
 form .input-group button{
     width: 100%;
     height: 47px;
-    background: #FF008A;
+    background: #ff7300ea;
     border-radius: 20px;
     outline: none;
     border: none;
